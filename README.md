@@ -1,7 +1,7 @@
 Hello, I'm Ryan Kahrimanian 👋
 FinTech Specialist | Finance Enthusiast | Aspiring Hedge Fund Analyst 
 
-About Me
+About Me:
 🎓 Education: Bachelor of Science in Finance with a concentration in FinTech at Fordham University, Gabelli School of Business. GPA: 3.75
 
 📈 Experience:
